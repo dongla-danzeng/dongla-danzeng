@@ -45,7 +45,7 @@
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongla-danzeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 <p>&emsp;&emsp;大家好，我是danBoy。</p>
 <p>&emsp;&emsp;一名热爱编程、篮球、唱歌、跳舞的藏族小伙。</p>
