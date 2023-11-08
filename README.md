@@ -62,15 +62,13 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 <!-- START_SECTION:blog -->
 
-* <a href='https://www.tankenqi.cn/posts/9d39de82' target='_blank'>K8S 集群环境搭建 (Containerd 作为容器)</a> - 2023-08-06
+* <a href='https://www.danboycrush.top/790.html' target='_blank'>AI智能音响 (Hey Lisa)</a> - 2023-09-28
 
-* <a href='https://www.tankenqi.cn/posts/9c5d9ac5' target='_blank'>Docker 修改容器映射主机端口</a> - 2023-05-12
+* <a href='https://www.danboycrush.top/307.html' target='_blank'>向毕业设计高歌猛进</a> - 2023-07-28
 
-* <a href='https://www.tankenqi.cn/posts/b035bcd6' target='_blank'>Docker 安装配置</a> - 2023-05-11
-
-* <a href='https://www.tankenqi.cn/posts/d154fd87' target='_blank'>Linux 配置 NFS 共享存储服务器</a> - 2023-04-03
-  
-* <a href='https://www.tankenqi.cn/posts/f5fad029' target='_blank'>VMware 虚拟机设置静态 IP</a> - 2023-03-14
+* <a href='https://www.danboycrush.top/321.html' target='_blank'>抖音直播自动评论</a> - 2023-08-11
+   
+* <a href='https://www.danboycrush.top/302.html' target='_blank'>信号嗅探</a> - 2023-07-14
 <!-- END_SECTION:blog -->
 </td></tr>
 
